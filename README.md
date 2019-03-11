@@ -4,13 +4,13 @@
 
 ## DESCRIPTION:
 
-An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
+**TL:DR;** An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
 
 User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey. Data is collected only at user's request.
 
 ## SLIDE DECK:
 
-[Click here for slide Presentation](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)
+[Click here](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)
 
 #### How well does this project leverage a blockchain?
 
@@ -41,6 +41,10 @@ Plays a part in the conversation about anonymity and user privacy.
 _How does this project address all the specifications of the Bunz challenge?_
 
 Built a fully functional, encrypted survey on an Ethereum smart contract. Responses are only viewable by the survey creator. Also integrated a dispute resolution protocol.
+
+#### RESULTS:
+
+Achieved **3rd place overall** and won the **_Bunz Challenge_**. Accomplishment listed on [Devpost](https://devpost.com/software/survey-anonymous#updates).
 
 ## TECHNOLOGIES:
 
