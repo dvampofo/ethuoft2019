@@ -54,7 +54,7 @@ Built a fully functional, encrypted survey on an Ethereum smart contract. Respon
 
 ### RESULTS:
 
-Created a functional project which lead to the team reaching **3rd place overall** and winning the **_Bunz Challenge_**. Accomplishment listed on [Devpost](https://devpost.com/software/survey-anonymous#updates).
+Created a functional project which lead to the team reaching **3rd place overall** and winning the **_Bunz Challenge_**. Accomplishment listed on [Devpost](https://devpost.com/software/survey-anonymous).
 
 ## TECHNOLOGIES:
 
