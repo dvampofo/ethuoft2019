@@ -4,6 +4,8 @@
 
 ## DESCRIPTION:
 
+---
+
 **TL:DR;** An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
 
 User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey.
@@ -14,9 +16,13 @@ Data is collected only at the **_user's_** request.
 
 ## SLIDE DECK:
 
+---
+
 [Click here](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)
 
 ## QUESTIONS & ANSWERS:
+
+---
 
 ### How well does this project leverage a blockchain?
 
@@ -65,5 +71,7 @@ Built a fully functional, encrypted survey on an Ethereum smart contract. Respon
 Created a functional project which lead to the team reaching **3rd place overall** and winning the **_Bunz Challenge_**. Accomplishment listed on [Devpost](https://devpost.com/software/survey-anonymous#updates).
 
 ## TECHNOLOGIES:
+
+---
 
 Ethereum Smart Contract, Web 3, PGP, VueJS, ReactJS
