@@ -1,6 +1,6 @@
 # ETHUofT 2019 - SurveyAnonymous
 
-![SurveyAnonymous Team](https://github.com/dvampofo/ethuoft2019/blob/master/images/collage.jpg?raw=true)
+![SurveyAnonymous Team]()
 
 ## DESCRIPTION:
 
