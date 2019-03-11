@@ -2,7 +2,7 @@
 
 ![SurveyAnonymous Team](https://github.com/dvampofo/ethuoft2019/blob/master/images/collage.jpg?raw=true)
 
-## Description:
+## DESCRIPTION:
 
 An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
 
