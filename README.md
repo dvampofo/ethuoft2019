@@ -12,6 +12,10 @@ Data is collected only at the **_user's_** request.
 
 **[Click here for original Bunz bounty details](https://github.com/dvampofo/ethuoft2019/blob/master/bunz_bounty/bunz_bounty.pdf)**
 
+## DEMO SURVEY:
+
+**[Nike survey](https://dvampofo.github.io/bunzchallenge/)**
+
 ## SLIDE DECK:
 
 **[Click here.](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)**
