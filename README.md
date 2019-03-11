@@ -14,7 +14,7 @@ Data is collected only at the **_user's_** request.
 
 ## DEMO SURVEY:
 
-**[Nike survey](https://dvampofo.github.io/bunzchallenge/)**
+**[Nike survey.](https://dvampofo.github.io/bunzchallenge/)**
 
 ## SLIDE DECK:
 
