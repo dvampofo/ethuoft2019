@@ -6,7 +6,9 @@
 
 **TL:DR;** An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
 
-User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey. Data is collected only at user's request.
+User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey. Data is collected only at _user's_ request.
+
+**[Click here Bunz bounty details]()**
 
 ## SLIDE DECK:
 
@@ -20,7 +22,7 @@ Our project solves an essential privacy issue that can only be solved with block
 
 _How is the user experience of your application? Could someone with little to no experience in the blockchain space use it easily?_
 
-The flow of the application as a user taking a survey requires very little knowledge of the blockchain space. Aside from acquaintance of BTZ through the Bunz app, users can easily use the survey functionality.
+The flow of the application as a user taking a survey requires very little knowledge of the blockchain space. Aside from acquaintance of BTZ through the [Bunz app](https://bunz.com/), users can easily use the survey functionality.
 
 ![UI/UX](https://github.com/dvampofo/ethuoft2019/blob/master/images/BunzUI.jpg?raw=true)
 
