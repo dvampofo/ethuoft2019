@@ -8,7 +8,7 @@
 
 User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey. Data is collected only at _user's_ request.
 
-**[Click here Bunz bounty details]()**
+**[Click here Bunz bounty details](https://github.com/dvampofo/ethuoft2019/blob/master/bunz_bounty/bunz_bounty.pdf)**
 
 ## SLIDE DECK:
 
