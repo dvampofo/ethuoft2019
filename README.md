@@ -20,9 +20,13 @@ Data is collected only at the **_user's_** request.
 
 ### How well does this project leverage a blockchain?
 
+---
+
 Our project solves an essential privacy issue that can only be solved with blockchain. User privacy is easily achieved with blockchain and encryption, while still allowing companies to conduct valuable market research.
 
 ### UI/UX
+
+---
 
 _How is the user experience of your application? Could someone with little to no experience in the blockchain space use it easily?_
 
@@ -40,17 +44,23 @@ Our solution is easily implementable onto the Bunz platform. It also has the pot
 
 ### VALUE
 
+---
+
 _How does this project add value to the blockchain space?_
 
 Plays a part in the conversation about anonymity and user privacy.
 
 ### BUNZ CHALLENGE
 
+---
+
 _How does this project address all the specifications of the Bunz challenge?_
 
 Built a fully functional, encrypted survey on an Ethereum smart contract. Responses are only viewable by the survey creator. Also integrated a dispute resolution protocol.
 
 ### RESULTS:
+
+---
 
 Created a functional project which lead to the team reaching **3rd place overall** and winning the **_Bunz Challenge_**. Accomplishment listed on [Devpost](https://devpost.com/software/survey-anonymous#updates).
 
