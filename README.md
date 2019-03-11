@@ -8,7 +8,7 @@ An encrypted, decentralized survey for companies to conduct market research with
 
 User data in market research is protected and unexploitable with the use of blockchain and PGP encryption. Survey responses are encrypted, only viewable by the party who initiated survey. Data is collected only at user's request.
 
-## Slide Deck:
+## SLIDE DECK:
 
 [Click here for slide Presentation](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)
 
@@ -24,24 +24,24 @@ The flow of the application as a user taking a survey requires very little knowl
 
 ![UI/UX](https://github.com/dvampofo/ethuoft2019/blob/master/images/BunzUI.jpg?raw=true)
 
-#### Viability
+#### VIABILITY
 
 _How can this project be brought into production and worked upon after the hackathon?_
 
 Our solution is easily implementable onto the Bunz platform. It also has the potential to change how marketing is done and users in general can gain power over their personal information again.
 
-#### Value
+#### VALUE
 
 _How does this project add value to the blockchain space?_
 
 Plays a part in the conversation about anonymity and user privacy.
 
-#### Bunz Challenge
+#### BUNZ CHALLENGE
 
 _How does this project address all the specifications of the Bunz challenge?_
 
 Built a fully functional, encrypted survey on an Ethereum smart contract. Responses are only viewable by the survey creator. Also integrated a dispute resolution protocol.
 
-## Technologies:
+## TECHNOLOGIES:
 
 Ethereum Smart Contract, Web 3, PGP, VueJS, ReactJS
