@@ -14,7 +14,7 @@ Data is collected only at the **_user's_** request.
 
 ## SLIDE DECK:
 
-[Click here](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)
+**[Click here.](https://docs.google.com/presentation/d/15SLoZXDdd7uLZLEReUx9NZupInQZ6tG6276yCFZ6jbc/edit?usp=sharing)**
 
 ## QUESTIONS & ANSWERS:
 
