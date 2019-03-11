@@ -1,5 +1,7 @@
 # ETHUofT 2019 - SurveyAnonymous
 
+![SurveyAnonymous Team](https://github.com/dvampofo/ethuoft2019/blob/master/images/collage.jpg?raw=true)
+
 ## Description:
 
 An encrypted, decentralized survey for companies to conduct market research without sacrificing user privacy.
@@ -19,6 +21,8 @@ Our project solves an essential privacy issue that can only be solved with block
 _How is the user experience of your application? Could someone with little to no experience in the blockchain space use it easily?_
 
 The flow of the application as a user taking a survey requires very little knowledge of the blockchain space. Aside from acquaintance of BTZ through the Bunz app, users can easily use the survey functionality.
+
+![UI/UX](https://github.com/dvampofo/ethuoft2019/blob/master/images/BunzUI.jpg?raw=true)
 
 #### Viability
 
