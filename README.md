@@ -52,7 +52,7 @@ _How does this project address all the specifications of the Bunz challenge?_
 
 Built a fully functional, encrypted survey on an Ethereum smart contract. Responses are only viewable by the survey creator. Also integrated a dispute resolution protocol.
 
-### RESULTS:
+### RESULTS
 
 Created a functional project which lead to the team reaching **3rd place overall** and winning the **_Bunz Challenge_**. Accomplishment listed on [Devpost](https://devpost.com/software/survey-anonymous).
 
